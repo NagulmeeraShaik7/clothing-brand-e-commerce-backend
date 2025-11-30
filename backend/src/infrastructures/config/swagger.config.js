@@ -32,7 +32,7 @@ const swaggerDefinition = {
 			description: "Development server"
 		},
 		{
-			url: process.env.SWAGGER_PROD_URL || "http://api.example.com",
+			url:"https://clothing-brand-e-commerce-backend.onrender.com",
 			description: "Production server"
 		}
 	],
